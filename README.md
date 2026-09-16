@@ -14,12 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
-
+| **Name** |  VIDHUL KUMAAR V |
+| **LinkedIn** | [vidhulkumaar-vaiyapuri](https://www.linkedin.com/in/vidhulkumaar-vaiyapuri) |
+| **Location** | TAMIL NADU, INDIA |
+| **Background** | student |
+| **Goal** |  To become a skilled technology professional and build real-world solutions |
 ---
 
 ## About the Program
@@ -130,8 +129,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | 🔄 In Progress | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/gvYNgBaE | https://medium.com/@vidhulkumarvidhul/i-have-started-learning-devops-with-dmi-campus-agentic-ai-track-and-successfully-completed-week-3faf947d8141?sharedUserId=vidhulkumarvidhul |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/gNFwdrcd | https://medium.com/@vidhulkumarvidhul/week-01-success-mindset-bc0c662e4d5b?sharedUserId=vidhulkumarvidhul |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
@@ -163,6 +162,6 @@ This is not a course. It is an internship-style program — real deployments, re
 If you found this repo useful or want to follow my DevOps journey:
 
 - ⭐ Star this repo
-- 🔗 Connect with me on [LinkedIn](#)
+- 🔗 Connect with me on [LinkedIn](#): www.linkedin.com/in/vidhulkumaar-vaiyapuri
 - 🌐 Learn more about the program: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme
 - 💬 Join the community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme
