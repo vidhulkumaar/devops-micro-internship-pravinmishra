@@ -388,8 +388,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: [**ADD LINK HERE**](https://lnkd.in/p/gNFwdrcd)
-- Blog / Medium: **ADD LINK HERE**
+- LinkedIn Post URL: https://lnkd.in/p/gNFwdrcd
+- Blog / Medium: https://medium.com/@vidhulkumarvidhul/week-01-success-mindset-bc0c662e4d5b
 
 ---
 
