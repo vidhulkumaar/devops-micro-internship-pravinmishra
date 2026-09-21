@@ -129,8 +129,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/gvYNgBaE | https://medium.com/@vidhulkumarvidhul/i-have-started-learning-devops-with-dmi-campus-agentic-ai-track-and-successfully-completed-week-3faf947d8141?sharedUserId=vidhulkumarvidhul |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://lnkd.in/p/gNFwdrcd | https://medium.com/@vidhulkumarvidhul/week-01-success-mindset-bc0c662e4d5b?sharedUserId=vidhulkumarvidhul |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/vidhulkumaar-vaiyapuri_dmibypravinmishra-agenticai-devops-activity-7506054609233309696-ECFE | https://medium.com/@vidhulkumarvidhul/i-have-started-learning-devops-with-dmi-campus-agentic-ai-track-and-successfully-completed-week-3faf947d8141?sharedUserId=vidhulkumarvidhul |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/vidhulkumaar-vaiyapuri_dmibypravinmishra-agenticai-devops-activity-7506054905673969664-gtAI | https://medium.com/@vidhulkumarvidhul/week-01-success-mindset-bc0c662e4d5b?sharedUserId=vidhulkumarvidhul |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
